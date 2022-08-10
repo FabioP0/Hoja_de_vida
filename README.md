@@ -1,5 +1,5 @@
 ## Fabio Alberto Poveda Barrios 
-<a href="https://ibb.co/sQbNL2Y"><img src="https://i.ibb.co/sQbNL2Y/fotico.jpg" alt="fotico" border="0"></a>
+<a href=""><img src="https://github.com/FabioP0/hoja_de_vida/blob/main/fab.jpg?raw=true" alt="fotico" border="0" width="150"></a>
 ___
 
 ### CONTACTO
